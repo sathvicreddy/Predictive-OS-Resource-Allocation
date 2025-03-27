@@ -31,7 +31,7 @@ Follow these steps to get your local development environment set up:
 1.	Clone the Repository:
 bash
 CopyEdit
-git clone https://github.com/your-username/Predictive-OS-Resource-Allocation.git
+git clone https://github.com/sathvicreddy/Predictive-OS-Resource-Allocation/tree/main
 cd Predictive-OS-Resource-Allocation
 2.	Install Dependencies:
 Make sure you have Python 3.6+ installed, then install the required dependencies:
